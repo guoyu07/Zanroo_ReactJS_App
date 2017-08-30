@@ -5,7 +5,7 @@ A React JS single page application which can dynamically add, remove and update 
 -node version 6.3.1 or higher must be installed on the system
 -npm version 3.10.3 or higher must be installed 
 
-# Instructions to run the application in linux system:
+# Instructions to run the application on linux system:
 - Store the files in a directory named App(as per your wish).
 - In the command prompt change the current directory to App 
 - Run the command "npm install webpack-dev-server --save-dev" to install webpack-dev-server package as it is required

@@ -29,8 +29,8 @@ url: http://localhost:9090/
   - The data in the records can also be updated and while updating the data the new inputed data is again validated.
   
 # The Design Layout of the Application:
-- EmployeeApp: The app has a top-level component named as EmployeeApp. This component is composed of following 
-               components:
+- EmployeeApp: The app has a top-level component named as EmployeeApp. This component is composed of following components:
+               
           - EmployeeList: EmployeeList component represents a list of employees and has code to render the same.
 
           - Employee    : Employee component represents a single employee and has an onClick event for removing and editing                             the employee details.
